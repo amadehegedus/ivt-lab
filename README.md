@@ -1,6 +1,10 @@
 # IVT Spaceship
 
+<<<<<<< HEAD
 This is a sample game for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
+=======
+This is a sample exercise for the [Integration and Verification Techniques](http://www.mit.bme.hu/oktatas/targyak/vimiac04) course at BME MIT.
+>>>>>>> branch-B
 
 The application is simplified and deliberately contains bugs.
 
