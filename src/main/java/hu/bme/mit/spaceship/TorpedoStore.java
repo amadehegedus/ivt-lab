@@ -15,7 +15,7 @@ public class TorpedoStore {
 
   private int torpedoCount = 0;
 
-  private Random rand = SecureRandom.getInstanceStrong();
+  private SecureRandom rand = new SecureRandom();
 
   public TorpedoStore(final int numberOfTorpedos) {
     this.torpedoCount = numberOfTorpedos;
